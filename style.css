@@ -1,8 +1,7 @@
 .odin-recipes {
-    background-image: url("https://media.istockphoto.com/id/1170475875/photo/peoples-hands-with-glasses-of-rose-wine-over-picnic-table.jpg?s=612x612&w=0&k=20&c=TWk0Rqk0-bxgFWQKT8JZ9BOilnkNDntmAl9SWzOtTQU=");
-    background-repeat: no-repeat;
-    background-size: cover;
+    
     padding: 2px;
+    
     
 
 }
@@ -19,14 +18,37 @@ footer {
 
 body {
    text-align: center;
+   background-color: blanchedalmond;
 }
 
-ul {
-    font-size: 2em;
 
+
+.button1 {
+   
+    font-size: 20px;
+    background-color:blue;
+    color: white;
+    padding: 10px;
+    margin: 5px;
 }
 
-header {
-    
-
+.button2 {
+   
+    font-size: 20px;
+    background-color:blue;
+    color: white;
+    padding: 10px;
+    margin: 5px;
 }
+
+.button3 {
+   
+    font-size: 20px;
+    background-color:blue;
+    color: white;
+    padding: 10px;
+    margin: 5px;
+}
+
+
+
