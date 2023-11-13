@@ -1,0 +1,15 @@
+body {
+    align-items: center;
+}
+
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+}
+
+.pasta {
+    border-radius: 5%;
+    box-shadow: 1px 2px 2px 1px black;
+}
+
