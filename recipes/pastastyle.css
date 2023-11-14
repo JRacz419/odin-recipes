@@ -1,5 +1,8 @@
-body {
+.pasta-container {
+    display:flex;
+    justify-content: center;
     align-items: center;
+
 }
 
 
@@ -10,6 +13,17 @@ h1 {
 
 .pasta {
     border-radius: 5%;
-    box-shadow: 1px 2px 2px 1px black;
+    box-shadow: 1px 2px 2px 1px lightgray;
+    
 }
+
+body {
+    background-color: lightgrey;
+}
+
+h2 {
+    text-align: center;
+}
+
+
 

@@ -1,15 +1,16 @@
 .odin-recipes {
-    
     padding: 2px;
-    
-    
-
+    background-image: url('images/food-banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 h1 {
-    color:black;
+    color:lightgray;
     font-size: 10em;
     font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 1px  grey;
+    text-align: center;
 }
 
 footer {
@@ -17,8 +18,8 @@ footer {
 }
 
 body {
-   text-align: center;
-   background-color: blanchedalmond;
+   
+   background-color: lightgrey;
 }
 
 
@@ -30,6 +31,7 @@ body {
     color: white;
     padding: 10px;
     margin: 5px;
+    position: block;
 }
 
 .button2 {
@@ -39,6 +41,8 @@ body {
     color: white;
     padding: 10px;
     margin: 5px;
+    position: block;
+
 }
 
 .button3 {
@@ -48,7 +52,10 @@ body {
     color: white;
     padding: 10px;
     margin: 5px;
+    position: block;
+
 }
+
 
 
 
