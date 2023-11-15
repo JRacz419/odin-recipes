@@ -24,36 +24,55 @@ body {
 
 
 
-.button1 {
+.pasta-container {
    
     font-size: 20px;
-    background-color:blue;
+    
     color: white;
     padding: 10px;
     margin: 5px;
-    position: block;
+    display: inline-block;
 }
 
-.button2 {
+.chili-container {
    
     font-size: 20px;
-    background-color:blue;
+    
     color: white;
     padding: 10px;
     margin: 5px;
-    position: block;
+    display: inline-block;
 
 }
 
-.button3 {
+.dip-container {
    
     font-size: 20px;
-    background-color:blue;
-    color: white;
     padding: 10px;
     margin: 5px;
-    position: block;
+    color: white;
+    
+    display: inline-block;
 
+}
+
+ul {
+    display:block;
+    justify-content: center;
+    background-color: grey;
+    justify-content: center;
+}
+
+.list-container {
+    display:flex;
+    justify-content: center;
+    
+}
+
+.h2-quote {
+    color: aliceblue;
+    text-align: center;
+    font-size: 2em;
 }
 
 
