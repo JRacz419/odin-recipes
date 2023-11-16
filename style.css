@@ -3,6 +3,7 @@
     background-image: url('images/food-banner.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    
 }
 
 h1 {
@@ -62,10 +63,13 @@ ul {
     background-color: grey;
     justify-content: center;
 }
+    
 
 .list-container {
     display:flex;
     justify-content: center;
+    margin-top: ;
+    
     
 }
 
@@ -74,6 +78,55 @@ ul {
     text-align: center;
     font-size: 2em;
 }
+
+.pasta-image {
+    display: flex;
+    justify-content: center;
+}
+
+
+.pasta {
+    height: 400px;
+    width: 550px;
+    border-radius: 5%;
+    box-shadow: .5px .5px black;
+}
+
+.chili-image {
+    display: flex;
+    
+    
+}
+
+.chili {
+    position: inline-block;
+    height: 400px;
+    width: 550px;
+    border-radius: 5%;
+    box-shadow: .5px .5px black;
+}
+
+.dip-image {
+    display: flex;
+    
+}
+
+.dip {
+    position: inline-block;
+    height: 400px;
+    width: 550px;
+    border-radius: 5%;
+    box-shadow: .5px .5px black;
+}
+
+.group-images {
+    display: flex;
+    gap: 4px;
+    justify-content: center;
+    
+    
+}
+
 
 
 
